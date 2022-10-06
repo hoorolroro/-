@@ -49,11 +49,11 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 <img src="https://user-images.githubusercontent.com/98728682/194243830-9bfa02d7-5f3a-424b-8175-ceae7a149150.PNG" width="1250" height="320">
 
 ## 2. Python Folium Library를 사용한 지도 시각화
-### (1) 도시 지적도 긋기 & 주요 범죄율 대비 지역별 색깔 넣기(choropleth)
+#### (1) 도시 지적도 긋기 & 주요 범죄율 대비 지역별 색깔 넣기(choropleth)
 
 <img src="https://user-images.githubusercontent.com/98728682/194219827-83bbd307-c9cf-4662-a4d9-63fc4f260d0a.PNG" width="550" height="500"><img src="https://user-images.githubusercontent.com/98728682/194219830-1bf99ccf-73ec-456d-ba04-2b7712db2f6a.PNG" width="550" height="500">
 
-### (2) 행정 구역별로 마커를 만들었다. 마커를 클릭하면, 각 행정 구역별로 주요 범죄수가 나오도록 하였다.
+#### (2) 행정 구역별로 마커를 만들었다. 마커를 클릭하면, 각 행정 구역별로 주요 범죄수가 나오도록 하였다.
 <img src="https://user-images.githubusercontent.com/98728682/194219834-81508d02-059b-42e9-a54f-7e00815480a9.PNG" width="1200" height="500">
 
 ## 3.범죄 요인별 insight 및 시각화

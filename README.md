@@ -50,9 +50,9 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 ## 3.범죄 요인별 insight 및 시각화
 ### (1)각 지역별 요인과 주요 범죄율의과 상관관계를 알아본다.
 
-<img src="https://user-images.githubusercontent.com/98728682/194219836-9dcad185-1c76-4ebf-be4e-a9232ce899af.PNG" width="1000" height="550"> <img src="https://user-images.githubusercontent.com/98728682/194219838-bd92692e-82af-4506-b75e-99685e44fd75.PNG" width="1000" height="550">
+<img src="https://user-images.githubusercontent.com/98728682/194219836-9dcad185-1c76-4ebf-be4e-a9232ce899af.PNG" width="1200" height="550"> <img src="https://user-images.githubusercontent.com/98728682/194219838-bd92692e-82af-4506-b75e-99685e44fd75.PNG" width="1200" height="550">
 
-<img src="https://user-images.githubusercontent.com/98728682/194219842-5a3419bf-55fd-4425-9406-9a80d297dca2.PNG" width="1000" height="550"><img src="https://user-images.githubusercontent.com/98728682/194245285-67c889a9-91cc-4c68-8fae-7b051a96e927.png" width="1000" height="550">
+<img src="https://user-images.githubusercontent.com/98728682/194219842-5a3419bf-55fd-4425-9406-9a80d297dca2.PNG" width="1200" height="550"><img src="https://user-images.githubusercontent.com/98728682/194245285-67c889a9-91cc-4c68-8fae-7b051a96e927.png" width="1200" height="550">
 
 ### (2)주요 범죄율과 인구밀도, 지역 총소득, 경찰관 비율, 대졸자 비율 등과의 상관관계를 히트맵으로 알아본다.
 <img src="https://user-images.githubusercontent.com/98728682/194219840-5f57c99c-63ff-4a87-9d3b-a2c2048c8342.PNG" width="640" height="500">

@@ -5,22 +5,29 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 본인 역할 : 데이터 전처리 및 시각화
 
-1. 전처리
+## 1. 전처리
 
-(1)groupby 함수의 sum()메소드를 사용하여, 지역별로 범죄 대분류를 묶고, 범죄 중분류는 drop처리 하였다.
+#### (1) Raw data
 
-<img src="https://user-images.githubusercontent.com/98728682/194219304-cbd60b44-91dc-4252-8d03-1c04b4ec43d5.PNG" width="1120" height="300"> 
-
-
-(2)filter 함수를 통해 지역별로 나눠진 데이터프레임을 광역시 별로 묶었다.
-<img src="https://user-images.githubusercontent.com/98728682/194219847-7e6a58c3-7ba2-404c-b1c2-58a7ae8cefda.PNG" width="1120" height="300">
+<img src="https://user-images.githubusercontent.com/98728682/194219304-cbd60b44-91dc-4252-8d03-1c04b4ec43d5.PNG" width="1250" height="300"> 
 
 
-(3)각 지역별 범죄 비율 데이터 만들기 : 인구수에 관한 데이터를 기존 데이터에 합쳤다.(출처:통계청)
-<img src="https://user-images.githubusercontent.com/98728682/194219825-4ea475c5-c57f-4d31-b9bb-4bf43e8b07e1.PNG" width="1120" height="300">
+#### (2)groupby 함수의 sum()메소드를 사용하여, 지역별로 범죄 대분류를 묶고, 범죄 중분류는 drop처리 하였다.
+
+<img src="https://user-images.githubusercontent.com/98728682/194219304-cbd60b44-91dc-4252-8d03-1c04b4ec43d5.PNG" width="1250" height="300"> 
 
 
-2. 지도 시각화
+#### (3)filter 함수를 통해 지역별로 나눠진 데이터프레임을 광역시 별로 묶었다.
+
+<img src="https://user-images.githubusercontent.com/98728682/194219847-7e6a58c3-7ba2-404c-b1c2-58a7ae8cefda.PNG" width="1250" height="300">
+
+
+#### (4)각 지역별 범죄 비율 데이터 만들기 : 인구수에 관한 데이터를 기존 데이터에 합쳤다.(출처:통계청)
+
+<img src="https://user-images.githubusercontent.com/98728682/194219825-4ea475c5-c57f-4d31-b9bb-4bf43e8b07e1.PNG" width="1250" height="300">
+
+
+## 2. 지도 시각화
 (1) 도시 지적도 긋기 & 주요 범죄율 대비 지역별 색깔 넣기(choropleth)
 <img src="https://user-images.githubusercontent.com/98728682/194219827-83bbd307-c9cf-4662-a4d9-63fc4f260d0a.PNG" width="220" height="250"><https://user-images.githubusercontent.com/98728682/194219830-1bf99ccf-73ec-456d-ba04-2b7712db2f6a.PNG" width="220" height="250">
 (2) 각자 행정 구역별로 마커를 만들었다. : 마커 클릭하면, 각자 행정 구역별로 주요 범죄수가 나오도록 하였다.

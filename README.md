@@ -9,15 +9,15 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 (1)groupby 함수의 sum()메소드를 사용하여, 지역별로 범죄 대분류를 묶고, 범죄 중분류는 drop처리 하였다.
 
-<img src="https://user-images.githubusercontent.com/98728682/194219304-cbd60b44-91dc-4252-8d03-1c04b4ec43d5.PNG" width="1020" height="350"> 
+<img src="https://user-images.githubusercontent.com/98728682/194219304-cbd60b44-91dc-4252-8d03-1c04b4ec43d5.PNG" width="1120" height="300"> 
 
 
 (2)filter 함수를 통해 지역별로 나눠진 데이터프레임을 광역시 별로 묶었다.
-<img src="https://user-images.githubusercontent.com/98728682/194219847-7e6a58c3-7ba2-404c-b1c2-58a7ae8cefda.PNG" width="1020" height="350">
+<img src="https://user-images.githubusercontent.com/98728682/194219847-7e6a58c3-7ba2-404c-b1c2-58a7ae8cefda.PNG" width="1120" height="300">
 
 
 (3)각 지역별 범죄 비율 데이터 만들기 : 인구수에 관한 데이터를 기존 데이터에 합쳤다.(출처:통계청)
-<img src="https://user-images.githubusercontent.com/98728682/194219825-4ea475c5-c57f-4d31-b9bb-4bf43e8b07e1.PNG" width="1020" height="350">
+<img src="https://user-images.githubusercontent.com/98728682/194219825-4ea475c5-c57f-4d31-b9bb-4bf43e8b07e1.PNG" width="1120" height="300">
 
 
 2. 지도 시각화

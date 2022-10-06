@@ -39,14 +39,15 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 <img src="https://user-images.githubusercontent.com/98728682/194219827-83bbd307-c9cf-4662-a4d9-63fc4f260d0a.PNG" width="550" height="500"><img src="https://user-images.githubusercontent.com/98728682/194219830-1bf99ccf-73ec-456d-ba04-2b7712db2f6a.PNG" width="550" height="500">
 
-### (2) 행정 구역별로 마커를 만들었다. 마커를 클릭하면, 각자 행정 구역별로 주요 범죄수가 나오도록 하였다.
-<img src="https://user-images.githubusercontent.com/98728682/194219834-81508d02-059b-42e9-a54f-7e00815480a9.PNG" width="600" height="500">
+### (2) 행정 구역별로 마커를 만들었다. 마커를 클릭하면, 각 행정 구역별로 주요 범죄수가 나오도록 하였다.
+<img src="https://user-images.githubusercontent.com/98728682/194219834-81508d02-059b-42e9-a54f-7e00815480a9.PNG" width="1200" height="500">
 
 ## 3.범죄 요인별 insight 및 시각화
-(1)도시 별 지역별 인구밀도, 지역별 총소득, 경찰관 비율, 대졸자 비율 등에 따른 주요 범죄율과 상관관계를 알아본다. (출처: 서울시 범죄발생의 결정요인 분석과 도시계획적 시사점 등)
-<img src="https://user-images.githubusercontent.com/98728682/194219836-9dcad185-1c76-4ebf-be4e-a9232ce899af.PNG" width="320" height="250"> <img src="https://user-images.githubusercontent.com/98728682/194219838-bd92692e-82af-4506-b75e-99685e44fd75.PNG" width="320" height="250">
+### (1)도시 별 지역별 인구밀도, 지역별 총소득, 경찰관 비율, 대졸자 비율 등에 따른 주요 범죄율과 상관관계를 알아본다.
+### (논문 출처: "서울시 범죄발생의 결정요인 분석과 도시계획적 시사점" 등)
+<img src="https://user-images.githubusercontent.com/98728682/194219836-9dcad185-1c76-4ebf-be4e-a9232ce899af.PNG" width="720" height="450"> <img src="https://user-images.githubusercontent.com/98728682/194219838-bd92692e-82af-4506-b75e-99685e44fd75.PNG" width="720" height="450">
 
-<img src="https://user-images.githubusercontent.com/98728682/194219842-5a3419bf-55fd-4425-9406-9a80d297dca2.PNG" width="320" height="250"><img src="https://user-images.githubusercontent.com/98728682/194219843-964dc98f-8513-493b-9718-62ecbc414cdf.PNG" width="320" height="250">
+<img src="https://user-images.githubusercontent.com/98728682/194219842-5a3419bf-55fd-4425-9406-9a80d297dca2.PNG" width="720" height="450"><img src="https://user-images.githubusercontent.com/98728682/194219843-964dc98f-8513-493b-9718-62ecbc414cdf.PNG" width="720" height="450">
 
-(2)주요 범죄율과 인구밀도, 지역 총소득, 경찰관 비율, 대졸자 비율 등과의 상관관계를 히트맵으로 알아본다.
+### (2)주요 범죄율과 인구밀도, 지역 총소득, 경찰관 비율, 대졸자 비율 등과의 상관관계를 히트맵으로 알아본다.
 <img src="https://user-images.githubusercontent.com/98728682/194219840-5f57c99c-63ff-4a87-9d3b-a2c2048c8342.PNG" width="320" height="250">

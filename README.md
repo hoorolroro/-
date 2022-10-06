@@ -20,7 +20,7 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 #### (3)filter 함수를 통해 지역별로 나눠진 데이터프레임을 광역시 별로 묶었다.
 
-
+<br/>
 <img src="https://user-images.githubusercontent.com/98728682/194228815-acf73fb4-ad78-4464-8ac8-aadfdd7dbd80.PNG" width="1250" height="320">
 
 

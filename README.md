@@ -7,7 +7,7 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 ## 1. 전처리
 
-#### (1) Raw data
+### (1) Raw data
 
 <img src="https://user-images.githubusercontent.com/98728682/194224185-f1f8862d-2ebf-4598-87d1-59551074b382.PNG" width="1250" height="320"> 
 

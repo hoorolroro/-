@@ -9,7 +9,7 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 #### (1) Raw data
 
-<img src="https://user-images.githubusercontent.com/98728682/194219304-cbd60b44-91dc-4252-8d03-1c04b4ec43d5.PNG" width="1250" height="300"> 
+<img src="https://user-images.githubusercontent.com/98728682/194224185-f1f8862d-2ebf-4598-87d1-59551074b382.PNG" width="1250" height="300"> 
 
 
 #### (2)groupby 함수의 sum()메소드를 사용하여, 지역별로 범죄 대분류를 묶고, 범죄 중분류는 drop처리 하였다.

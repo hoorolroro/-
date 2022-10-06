@@ -18,10 +18,8 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 2. 지도 시각화
 (1) 각자 행정 구역별로 마커를 만들었다. : 마커 클릭하면, 각자 행정 구역별로 주요 범죄수가 나오도록 하였다.
+
 (2) 도시 지적도 긋기 & 주요 범죄율 대비 지역별 색깔 넣기(choropleth)
-(3) 
-
-
 
 
 3.범죄 요인별 insight 및 시각화

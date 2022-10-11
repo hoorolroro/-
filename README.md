@@ -11,6 +11,7 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 <br/>
 
+*역할*
 #### *본인 역할* : 데이터 전처리 및 상관관계 시각화
 #### 신엽 : 지도 시각화
 #### 기나 : 상관관계 시각화

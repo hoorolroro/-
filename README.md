@@ -63,12 +63,14 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 #### (2) 행정 구역별로 마커를 만들었다. 마커를 클릭하면, 각 행정 구역별로 주요 범죄수가 나오도록 하였다.
 <img src="https://user-images.githubusercontent.com/98728682/194219834-81508d02-059b-42e9-a54f-7e00815480a9.PNG" width="1200" height="500">
 
-## 3.범죄 요인별 insight 및 시각화
+## 3.범죄 요인별 insight 및 상관관계 시각화
 ### (1)각 지역별 요인과 주요 범죄율의과 상관관계를 알아본다.
 
 <img src="https://user-images.githubusercontent.com/98728682/194219836-9dcad185-1c76-4ebf-be4e-a9232ce899af.PNG" width="1200" height="550"> <img src="https://user-images.githubusercontent.com/98728682/194219838-bd92692e-82af-4506-b75e-99685e44fd75.PNG" width="1200" height="550">
 
 <img src="https://user-images.githubusercontent.com/98728682/194219842-5a3419bf-55fd-4425-9406-9a80d297dca2.PNG" width="1200" height="550"><img src="https://user-images.githubusercontent.com/98728682/194245285-67c889a9-91cc-4c68-8fae-7b051a96e927.png" width="1200" height="550">
+
+#### ● 주요 범죄는 강력 범죄와 절도 범죄, 폭력 범죄를 가리킨다.
 
 #### ● 주요 범죄율과 인구밀도, 경찰관 비율, 대졸자 비율 등과는 양의 상관관계를 나타내었고, 지역 총소득과는 음의 상관관계를 나타내었다.
 

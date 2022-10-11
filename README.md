@@ -21,7 +21,7 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 #### 지수 : 데이터 전처리 보조
 
 
-## 1. 전처리
+## 1. 데이터 전처리
 
 #### (1) Raw data
 

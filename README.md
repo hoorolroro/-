@@ -66,9 +66,9 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 ## 3.범죄 요인별 insight 및 상관관계 시각화
 ### (1)각 지역별 요인과 주요 범죄율의과 상관관계를 알아본다.
 
-<img src="https://user-images.githubusercontent.com/98728682/194219836-9dcad185-1c76-4ebf-be4e-a9232ce899af.PNG" width="1200" height="520"> <img src="https://user-images.githubusercontent.com/98728682/194219838-bd92692e-82af-4506-b75e-99685e44fd75.PNG" width="1200" height="520">
+<img src="https://user-images.githubusercontent.com/98728682/194219836-9dcad185-1c76-4ebf-be4e-a9232ce899af.PNG" width="1200" height="500"> <img src="https://user-images.githubusercontent.com/98728682/194219838-bd92692e-82af-4506-b75e-99685e44fd75.PNG" width="1200" height="500">
 
-<img src="https://user-images.githubusercontent.com/98728682/194219842-5a3419bf-55fd-4425-9406-9a80d297dca2.PNG" width="1200" height="520"><img src="https://user-images.githubusercontent.com/98728682/194245285-67c889a9-91cc-4c68-8fae-7b051a96e927.png" width="1200" height="520">
+<img src="https://user-images.githubusercontent.com/98728682/194219842-5a3419bf-55fd-4425-9406-9a80d297dca2.PNG" width="1200" height="500"><img src="https://user-images.githubusercontent.com/98728682/194245285-67c889a9-91cc-4c68-8fae-7b051a96e927.png" width="1200" height="500">
 
 #### ● 주요 범죄는 강력 범죄와 절도 범죄, 폭력 범죄를 가리킨다.
 

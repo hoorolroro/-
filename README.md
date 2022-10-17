@@ -46,7 +46,7 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 #### (4)각 지역별 범죄 비율 데이터 만들기 : 인구수에 관한 데이터를 기존 데이터에 합쳤다.(출처:통계청)
 
 
-<img src="https://user-images.githubusercontent.com/98728682/194228818-871e90e5-e9d2-4d6c-bdfb-39afc2092bae.PNG" width="1250" height="230">
+<img src="https://user-images.githubusercontent.com/98728682/194228818-871e90e5-e9d2-4d6c-bdfb-39afc2092bae.PNG" width="1250" height="190">
 
 <br/>
 

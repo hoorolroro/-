@@ -32,14 +32,14 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 #### (2)groupby 함수의 sum()메소드를 사용하여, 지역별로 범죄 대분류를 묶고, 범죄 중분류는 drop처리 하였다.
 
 
-<img src="https://user-images.githubusercontent.com/98728682/194227979-2e384364-0dbe-4587-ba32-1f4045d6b3ce.PNG" width="1250" height="260"> 
+<img src="https://user-images.githubusercontent.com/98728682/194227979-2e384364-0dbe-4587-ba32-1f4045d6b3ce.PNG" width="1230" height="260"> 
 
 <br/>
 
 #### (3)filter 함수를 통해 지역별로 나눠진 데이터프레임을 광역시 별로 묶었다.
 
 
-<img src="https://user-images.githubusercontent.com/98728682/194228815-acf73fb4-ad78-4464-8ac8-aadfdd7dbd80.PNG" width="1280" height="240">
+<img src="https://user-images.githubusercontent.com/98728682/194228815-acf73fb4-ad78-4464-8ac8-aadfdd7dbd80.PNG" width="1230" height="240">
 
 <br/>
 

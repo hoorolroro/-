@@ -46,14 +46,14 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 #### (4)각 지역별 범죄 비율 데이터 만들기 : 인구수에 관한 데이터를 기존 데이터에 합쳤다.(출처:통계청)
 
 
-<img src="https://user-images.githubusercontent.com/98728682/194228818-871e90e5-e9d2-4d6c-bdfb-39afc2092bae.PNG" width="1250" height="190">
+<img src="https://user-images.githubusercontent.com/98728682/194228818-871e90e5-e9d2-4d6c-bdfb-39afc2092bae.PNG" width="1250" height="250">
 
 <br/>
 
 #### (5)각 지역별로 인구밀도, 지역별 총소득, 경찰관 비율, 대졸자 비율 등을 데이터프레임에 넣는다.
 
 #### (출처:통계청, "서울시 범죄발생의 결정요인 분석과 도시계획적 시사점" 등)
-<img src="https://user-images.githubusercontent.com/98728682/194243830-9bfa02d7-5f3a-424b-8175-ceae7a149150.PNG" width="1250" height="250">
+<img src="https://user-images.githubusercontent.com/98728682/194243830-9bfa02d7-5f3a-424b-8175-ceae7a149150.PNG" width="1250" height="220">
 
 ## 2. Python Folium Library를 사용한 지도 시각화
 #### (1) 도시 지적도 긋기 & 주요 범죄율 대비 지역별 색깔 넣기(choropleth)

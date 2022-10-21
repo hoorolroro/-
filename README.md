@@ -20,8 +20,6 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 #### 성민 : 데이터 시각화 및 정리, 취합
 #### 지수 : 데이터 전처리 보조
 
-<br/>
-
 ## 1. 데이터 전처리
 
 

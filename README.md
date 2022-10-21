@@ -58,6 +58,8 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 #### ● 이것은 제주도의 유동 인구가 다른 지역에 비해 유독 많아서 범죄율이 높은 것으로 파악된다.
 
+<br/>
+
 ### (2)각 지역별 요인과 주요 범죄율과의 trendline
 
 #### ● 주요 범죄는 강력 범죄와 절도 범죄, 폭력 범죄를 가리킨다.

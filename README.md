@@ -20,6 +20,8 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 #### 성민 : 데이터 시각화 및 정리, 취합
 #### 지수 : 데이터 전처리 보조
 
+<br/>
+
 ## 1. 데이터 전처리
 
 
@@ -38,7 +40,6 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 - (출처:통계청, "서울시 범죄발생의 결정요인 분석과 도시계획적 시사점" 등)
 
-<br/>
 
 ## 2. Python Folium Library를 사용한 지도 시각화
 #### (1) 도시 지적도 긋기 & 주요 범죄율 대비 지역별 색깔 넣기(choropleth)

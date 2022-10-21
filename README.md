@@ -72,7 +72,7 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 <br/>
 
-### (3)주요 범죄율과 인구밀도, 지역 총소득, 경찰관 비율, 대졸자 비율 등과의 상관관계를 히트맵으로 알아보았다.
+### (3)주요 범죄율과 인구밀도, 지역 총소득, 경찰관 비율, 대졸자 비율 등과의 상관관계를 히트맵
 <img src="https://user-images.githubusercontent.com/98728682/194219840-5f57c99c-63ff-4a87-9d3b-a2c2048c8342.PNG" width="640" height="500">
 
 #### ● 상관관계가 높은(0.5 이상)의 요인은 찾을 수 없었다.

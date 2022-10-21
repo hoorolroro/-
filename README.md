@@ -51,7 +51,7 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 ## 3.범죄 요인별 insight 및 상관관계 시각화
 
-### (1)각 지역별 인구밀도와 주요 범죄율과의 트리맵 시각화
+### (1) 각 지역별 인구밀도와 주요 범죄율과의 트리맵 시각화
 <img src="https://user-images.githubusercontent.com/98728682/194219844-f7b07d24-33f6-4307-a1ee-21f63d665e20.PNG" width="1200" height="500">
 
 #### ● 인구밀도에 비해서 제주도가 유난히 주요 범죄율이 높은 것을 볼 수 있다.
@@ -60,7 +60,7 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 <br/>
 
-### (2)각 지역별 요인과 주요 범죄율과의 trendline
+### (2) 각 지역별 요인과 주요 범죄율과의 trendline
 
 #### ● 주요 범죄는 강력 범죄와 절도 범죄, 폭력 범죄를 가리킨다.
 
@@ -72,7 +72,7 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 <br/>
 
-### (3)주요 범죄율과 인구밀도, 지역 총소득, 경찰관 비율, 대졸자 비율 등과의 상관관계 히트맵
+### (3) 주요 범죄율과 인구밀도, 지역 총소득, 경찰관 비율, 대졸자 비율 등과의 상관관계 히트맵
 <img src="https://user-images.githubusercontent.com/98728682/194219840-5f57c99c-63ff-4a87-9d3b-a2c2048c8342.PNG" width="640" height="500">
 
 #### ● 상관관계가 높은(0.5 이상)의 요인은 찾을 수 없었다.

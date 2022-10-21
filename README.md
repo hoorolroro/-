@@ -51,6 +51,8 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 ## 3.범죄 요인별 insight 및 상관관계 시각화
 
+<br/>
+
 ### (1)각 지역별 요인과 주요 범죄율과의 trendline
 
 #### ● 주요 범죄는 강력 범죄와 절도 범죄, 폭력 범죄를 가리킨다.

@@ -65,6 +65,7 @@ https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=3074462
 
 ### (2)각 지역별 인구밀도와 주요 범죄율과의 트리맵 시각화
 <img src="https://user-images.githubusercontent.com/98728682/194219844-f7b07d24-33f6-4307-a1ee-21f63d665e20.PNG" width="1200" height="500">
+
 #### ● 인구밀도에 비해서 제주도가 유난히 주요 범죄율이 높은 것을 볼 수 있다.
 
 #### ● 이것은 제주도의 유동 인구가 다른 지역에 비해 유독 많아서 범죄율이 높은 것으로 파악된다.
